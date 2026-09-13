@@ -14,8 +14,6 @@
 
 ## Bibliotecas utilizadas
 
-## Como funciona?
-<p align="justify"> A ferramenta possui dois modos nos quais os gráficos pode ser gerados: o modo 1 e o modo 2. O modo 1 diz respeito a titulação entre um ácido fraco com uma base forte, enquanto o modo 2 funciona de maneira contrária, com a titulação de uma base fraca com um ácido forte. O usuário deve fornecer as concentrações da solução titulada e da solução que vai adicionada, bem como o volume da solução que vai ser titulada e o pKa ou pKb (a depender do modo escolhido). Além disso, o usuário tem a liberdade de escolher a unidade de medida (mililitro ou litro) que o volume vai ser adicionado. A partir desses dados, as funções auxilires criadas serão executadas para que o gráfico seja plotado, possibilitanto a visualização do usuário. Um adendo importante é que as condições definidas para o bom funcionamento e aproveitamento da ferramenta pelo usuário são exibidas antes do começo das perguntas para gerar o gráfico, sendo especificado quais condições devem ser seguida e quais erros devem ser evitados ao submeter os dados. O descumprimento dessas normas pode ocasionar em erros na geração do gráfico ou acarretar em gráficos que não condizem com o comportamento da reação que será analisada. 
 
 ## Gráficos gerados
 <p align="justify"> Para a titulação no modo 1 do ácido acético (pKa = 4.76) com o hidróxido de sódio, ambos com a concentração de 0,1 molar, e o volume do ácido fraco titulado sendo igual a 25 ml, vamos ter o seguindo gráfico gerado pela ferramenta:
@@ -37,5 +35,4 @@ Estudante do Bacharelado em Ciência e Tecnologia na Ilum Escola de Ciência.
 
 ## Professores 
 | <img loading="lazy" src="https://github.com/user-attachments/assets/17dfa7bf-5ca9-42df-b63e-917827fc6308" width=115><br><sub> [Prof. Dr. Daneiel Roberto Cassar](http://lattes.cnpq.br/1717397276752482) |
-| :--: | :---: | :---: | :---: |
 
